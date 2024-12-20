@@ -4,7 +4,7 @@
 The "Multi-Class Prediction of Obesity Risk" project aims to develop a predictive model that can accurately classify individuals into various risk categories for obesity based on a set of input features. This project leverages machine learning algorithms to provide insights into obesity risk and helps in taking preventive measures.
 
 
-https://github.com/user-attachments/assets/6c4c6a4e-d97b-4150-ad49-3f3bc0edf735
+https://github.com/user-attachments/assets/8bfd8575-5292-4a7c-a2f1-48541816decf
 
 
 ## 🎯 Objectives
